@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Teodorico Sidonio 's Portfolio ",
   "main": "index.js",
-  "homepage": "https://Teomazivila.github.io/Teodorico_Portfolio",
+  "homepage": "https://teo-services.com",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
@@ -15,4 +15,3 @@
     "node-sass": "^4.9.2"
   }
 }
-
